@@ -3,7 +3,7 @@
 
 #include <QDialog>
 
-//#include "jsonModel.h"
+#include "jsonModel.h"
 
 namespace Ui {
 class SiteList;
